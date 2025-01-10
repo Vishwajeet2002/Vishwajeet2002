@@ -1,4 +1,4 @@
-![logo](https://github.com/Vishwajeet2002/Vishwajeet2002/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)<style>.center{text-align="center"}</style>
+![logo](https://github.com/Vishwajeet2002/Vishwajeet2002/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vishwajeet Singh</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
