@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Singh</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fudaipurwebdesigner.in%2F&psig=AOvVaw1qeQvy2wat6sEkmU84Sjmy&ust=1736589218415000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCNnJTx6ooDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=high+quality+gif+for+professional+website+designer&sca_esv=5eec4df861aac159&udm=2&biw=1536&bih=730&sxsrf=ADLYWIJDepgefWyXhsgSZKDWg3zr6MDWrg%3A1736502783827&ei=_-2AZ5mUMtyf4-EPp4bz4Qo&ved=0ahUKEwjZj9P88OqKAxXczzgGHSfDPKwQ4dUDCBE&uact=5&oq=high+quality+gif+for+professional+website+designer&gs_lp=EgNpbWciMmhpZ2ggcXVhbGl0eSBnaWYgZm9yIHByb2Zlc3Npb25hbCB3ZWJzaXRlIGRlc2lnbmVySIBKUKMaWIBHcAN4AJABAJgBvAGgAfYQqgEEMC4xNbgBA8gBAPgBAZgCAaACkQHCAgQQIxgnmAMAiAYBkgcDMC4xoAeQBw&sclient=img#imgrc=-fbiRf22KjHNNM&imgdii=Ma9vVUMQdWZpjM">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet2002" alt="vishwajeet2002" /></a> </p>
 
