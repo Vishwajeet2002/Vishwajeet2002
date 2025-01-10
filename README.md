@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vishwajeet3827@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/OneDrive%20-%20Lovely%20Professional%20University/Desktop/Resume/Vishwa%20CV...pdf](file:///C:/Users/HP/OneDrive%20-%20Lovely%20Professional%20University/Desktop/Resume/Vishwa%20CV...pdf)
+- 📄 Know about my experiences https://github.com/Vishwajeet2002/Vishwajeet2002/blob/main/Vishwa%20CV...pdf
 
 - ⚡ Fun fact **I think I am good at making connections**
 
