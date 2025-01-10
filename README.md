@@ -1,3 +1,4 @@
+![logo](https://github.com/Vishwajeet2002/Vishwajeet2002/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vishwajeet Singh</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img  alt="coding" width="400" class="center" src="https://udaipurwebdesigner.in/wp-content/uploads/2019/08/web-development.gif">
